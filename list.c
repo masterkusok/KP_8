@@ -1,8 +1,5 @@
 #include "list.h"
 
-#include <stdio.h>
-#include <stdlib.h>
-
 const int INIT_CAPACITY = 2;
 const float GROW_FACTOR = 3.0/2.0;
 
